@@ -23,4 +23,3 @@ if (isset($_POST['login'])) {
         echo "Username atau jabatan salah.";
     }
 }
-?>
